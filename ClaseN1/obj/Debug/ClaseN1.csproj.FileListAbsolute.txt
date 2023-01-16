@@ -1,0 +1,8 @@
+C:\Users\CCBB-19\source\repos\ClaseN1\bin\Debug\ClaseN1.exe.config
+C:\Users\CCBB-19\source\repos\ClaseN1\bin\Debug\ClaseN1.exe
+C:\Users\CCBB-19\source\repos\ClaseN1\bin\Debug\ClaseN1.pdb
+C:\Users\CCBB-19\source\repos\ClaseN1\obj\Debug\ClaseN1.csproj.AssemblyReference.cache
+C:\Users\CCBB-19\source\repos\ClaseN1\obj\Debug\ClaseN1.csproj.SuggestedBindingRedirects.cache
+C:\Users\CCBB-19\source\repos\ClaseN1\obj\Debug\ClaseN1.csproj.CoreCompileInputs.cache
+C:\Users\CCBB-19\source\repos\ClaseN1\obj\Debug\ClaseN1.exe
+C:\Users\CCBB-19\source\repos\ClaseN1\obj\Debug\ClaseN1.pdb
